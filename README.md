@@ -1,4 +1,6 @@
-# hyperblog
-Platzi course on Git &amp; GitHub
-:construction: 
-**Work in progress**
+## hyperblog
+
+Platzi course on Git & GitHub
+
+:construction: **Work in progress**
+
